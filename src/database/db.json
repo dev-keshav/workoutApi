@@ -86,6 +86,25 @@
       "updatedAt": "6/30/2023, 7:18:00 AM"
     },
     {
+      "name": "tricept",
+      "mode": "AMRAP 12",
+      "equipment": [
+        "reverse-barbell"
+      ],
+      "exercises": [
+        "15 raps",
+        "15 hand-push-ups"
+      ],
+      "trainerTips": [
+        "Tricepts are meant to be light and fast",
+        "Try to aim for unbroken sets",
+        "RX Weights: 135lb/95lb"
+      ],
+      "id": "b848032d-4b94-4448-8fe4-86552cfbf6ca",
+      "createdAt": "12/5/2023, 2:50:36 PM",
+      "updatedAt": "12/5/2023, 2:50:36 PM"
+    },
+    {
       "name": "Core Joy",
       "mode": "AMRAP 205",
       "equipment": [
@@ -102,8 +121,1051 @@
         "Split your toes to bars into two sets maximum",
         "Go unbroken on the thrusters and Enjoy"
       ],
-      "createdAt": "6/30/2023, 7:21:31 AM",
-      "updatedAt": "6/30/2023, 7:21:31 AM"
+      "id": "9fb1ed60-cc29-42d7-82ae-a3d3c579b190",
+      "createdAt": "12/5/2023, 3:06:15 PM",
+      "updatedAt": "12/5/2023, 3:06:15 PM"
+    },
+    {
+      "name": "Strength Builder",
+      "mode": "EMOM 10",
+      "equipment": [
+        "dumbbells",
+        "kettlebell"
+      ],
+      "exercises": [
+        "10 dumbbell squats",
+        "12 kettlebell swings"
+      ],
+      "trainerTips": [
+        "Focus on maintaining proper form",
+        "Control your breathing"
+      ],
+      "id": "3ebde2df-f71b-436b-a61e-e7e5f3108f42",
+      "createdAt": "12/5/2023, 8:22:04 PM",
+      "updatedAt": "12/5/2023, 8:22:04 PM"
+    },
+    {
+      "name": "Cardio Blast",
+      "mode": "For Time",
+      "equipment": [
+        "jump rope",
+        "medicine ball"
+      ],
+      "exercises": [
+        "100 double unders",
+        "50 medicine ball slams"
+      ],
+      "trainerTips": [
+        "Stay consistent with your pace",
+        "Push yourself to finish strong"
+      ],
+      "id": "1a11a45d-53d1-4dff-a306-7bbf9a56f0d3",
+      "createdAt": "12/5/2023, 8:23:54 PM",
+      "updatedAt": "12/5/2023, 8:23:54 PM"
+    },
+    {
+      "name": "Endurance Challenge",
+      "mode": "Time Cap 30min",
+      "equipment": [
+        "rower",
+        "box"
+      ],
+      "exercises": [
+        "2000m row",
+        "100 box jumps"
+      ],
+      "trainerTips": [
+        "Maintain a steady pace on the rower",
+        "Break up the box jumps strategically"
+      ],
+      "id": "c15b60c5-2ecc-47c5-96e4-69b0b25baa6e",
+      "createdAt": "12/5/2023, 8:24:09 PM",
+      "updatedAt": "12/5/2023, 8:24:09 PM"
+    },
+    {
+      "name": "Upper Body Pump",
+      "mode": "AMRAP 15",
+      "equipment": [
+        "barbell",
+        "dumbbells",
+        "pull-up bar"
+      ],
+      "exercises": [
+        "12 bench press",
+        "15 bent-over rows",
+        "10 pull-ups"
+      ],
+      "trainerTips": [
+        "Choose a challenging weight for the bench press",
+        "Maintain a controlled pace throughout"
+      ],
+      "id": "da668651-6265-410b-b710-74399c97d0c4",
+      "createdAt": "12/5/2023, 8:25:00 PM",
+      "updatedAt": "12/5/2023, 8:25:00 PM"
+    },
+    {
+      "name": "Quick Core Burn",
+      "mode": "Tabata",
+      "equipment": [
+        "medicine ball",
+        "mat"
+      ],
+      "exercises": [
+        "20s medicine ball twists",
+        "20s plank",
+        "20s mountain climbers",
+        "20s rest (repeat)"
+      ],
+      "trainerTips": [
+        "Engage your core in each exercise",
+        "Maximize effort during the work intervals"
+      ],
+      "id": "87e105a3-014d-4e49-9c66-012b8ff33c94",
+      "createdAt": "12/5/2023, 8:25:14 PM",
+      "updatedAt": "12/5/2023, 8:25:14 PM"
+    },
+    {
+      "name": "Leg Day Challenge",
+      "mode": "For Time",
+      "equipment": [
+        "barbell",
+        "box"
+      ],
+      "exercises": [
+        "50 squats",
+        "40 lunges",
+        "30 box jumps"
+      ],
+      "trainerTips": [
+        "Focus on depth in your squats",
+        "Alternate legs during lunges"
+      ],
+      "id": "06b50a37-69d0-4613-933e-6601f61df19c",
+      "createdAt": "12/5/2023, 8:25:24 PM",
+      "updatedAt": "12/5/2023, 8:25:24 PM"
+    },
+    {
+      "name": "Full Body Blast",
+      "mode": "EMOM 20",
+      "equipment": [
+        "kettlebell",
+        "jump rope",
+        "mat"
+      ],
+      "exercises": [
+        "12 kettlebell swings",
+        "40s jump rope",
+        "10 goblet squats",
+        "40s jump rope"
+      ],
+      "trainerTips": [
+        "Maintain a consistent pace throughout",
+        "Focus on proper form in each movement"
+      ],
+      "id": "f9a13d94-2f1d-4d9b-a6a2-9a32789b01e9",
+      "createdAt": "12/5/2023, 8:27:16 PM",
+      "updatedAt": "12/5/2023, 8:27:16 PM"
+    },
+    {
+      "name": "Cardio Burnout",
+      "mode": "For Time",
+      "equipment": [
+        "treadmill",
+        "dumbbells"
+      ],
+      "exercises": [
+        "1 mile run",
+        "50 dumbbell thrusters",
+        "0.5 mile run",
+        "30 burpees"
+      ],
+      "trainerTips": [
+        "Push your pace during the runs",
+        "Break up the dumbbell thrusters strategically"
+      ],
+      "id": "fe41b0f4-383e-41ff-b710-006b899c2e04",
+      "createdAt": "12/5/2023, 8:27:29 PM",
+      "updatedAt": "12/5/2023, 8:27:29 PM"
+    },
+    {
+      "name": "Yoga Flow",
+      "mode": "AMRAP 30",
+      "equipment": [
+        "yoga mat",
+        "blocks"
+      ],
+      "exercises": [
+        "Sun Salutations",
+        "Warrior Poses",
+        "Downward Dog to Plank"
+      ],
+      "trainerTips": [
+        "Focus on controlled breathing",
+        "Modify poses as needed for your practice"
+      ],
+      "id": "cadec71a-1a91-429f-b354-b08521c57b88",
+      "createdAt": "12/5/2023, 8:27:41 PM",
+      "updatedAt": "12/5/2023, 8:27:41 PM"
+    },
+    {
+      "name": "Strength Circuit",
+      "mode": "Every 90s",
+      "equipment": [
+        "barbell",
+        "bench",
+        "dumbbells"
+      ],
+      "exercises": [
+        "5 bench press",
+        "10 bent-over rows",
+        "15 bicep curls"
+      ],
+      "trainerTips": [
+        "Focus on proper form and controlled movements",
+        "Adjust weights for your fitness level"
+      ],
+      "id": "4f65e8c1-1e2f-4682-83b0-cf7d36e26a9d",
+      "createdAt": "12/5/2023, 8:28:07 PM",
+      "updatedAt": "12/5/2023, 8:28:08 PM"
+    },
+    {
+      "name": "Quick Cardio Blitz",
+      "mode": "Tabata",
+      "equipment": [
+        "jump rope",
+        "kettlebell"
+      ],
+      "exercises": [
+        "20s jump rope",
+        "10s rest",
+        "20s kettlebell swings",
+        "10s rest"
+      ],
+      "trainerTips": [
+        "Go all out during the work intervals",
+        "Maintain a steady pace throughout"
+      ],
+      "id": "ca8af7b4-f1cf-4089-80c3-206c78b46302",
+      "createdAt": "12/5/2023, 8:28:18 PM",
+      "updatedAt": "12/5/2023, 8:28:18 PM"
+    },
+    {
+      "name": "Flexibility Fusion",
+      "mode": "EMOM 15",
+      "equipment": [
+        "yoga mat",
+        "resistance band"
+      ],
+      "exercises": [
+        "10 deep squats",
+        "15 band pull-aparts",
+        "20s deep lunges"
+      ],
+      "trainerTips": [
+        "Focus on full range of motion",
+        "Stretch and engage each muscle group"
+      ],
+      "id": "700abbce-e936-46db-893b-cf250e617303",
+      "createdAt": "12/5/2023, 8:28:28 PM",
+      "updatedAt": "12/5/2023, 8:28:28 PM"
+    },
+    {
+      "name": "Endurance Run",
+      "mode": "Timed Run",
+      "equipment": [
+        "running shoes",
+        "hydration pack"
+      ],
+      "exercises": [
+        "10 minutes easy jog",
+        "5 minutes sprint",
+        "15 minutes steady pace"
+      ],
+      "trainerTips": [
+        "Stay hydrated during the run",
+        "Listen to your body and adjust pace accordingly"
+      ],
+      "id": "0074b255-a66e-4215-ab5f-e39667087c62",
+      "createdAt": "12/5/2023, 8:29:15 PM",
+      "updatedAt": "12/5/2023, 8:29:15 PM"
+    },
+    {
+      "name": "Full Body HIIT",
+      "mode": "Tabata Circuit",
+      "equipment": [
+        "dumbbells",
+        "exercise mat"
+      ],
+      "exercises": [
+        "20s dumbbell squats",
+        "10s rest",
+        "20s push-ups",
+        "10s rest",
+        "20s mountain climbers",
+        "10s rest"
+      ],
+      "trainerTips": [
+        "Maintain good form throughout",
+        "Push yourself during each interval"
+      ],
+      "id": "b9481f29-8660-418d-9a0f-2f7bcc624a5b",
+      "createdAt": "12/5/2023, 8:29:26 PM",
+      "updatedAt": "12/5/2023, 8:29:26 PM"
+    },
+    {
+      "name": "Mindful Yoga Flow",
+      "mode": "Vinyasa",
+      "equipment": [
+        "yoga mat",
+        "comfortable clothing"
+      ],
+      "exercises": [
+        "Sun Salutations",
+        "Warrior Poses",
+        "Seated Meditation"
+      ],
+      "trainerTips": [
+        "Focus on your breath and movements",
+        "Modify poses to suit your comfort level"
+      ],
+      "id": "bfeef8cd-061c-4927-a499-541a4e9f5e08",
+      "createdAt": "12/5/2023, 8:29:36 PM",
+      "updatedAt": "12/5/2023, 8:29:36 PM"
+    },
+    {
+      "name": "Strength Building Circuit",
+      "mode": "EMOM",
+      "equipment": [
+        "barbell",
+        "weight plates",
+        "bench"
+      ],
+      "exercises": [
+        "Deadlifts",
+        "Bench Press",
+        "Overhead Press"
+      ],
+      "trainerTips": [
+        "Focus on proper form over heavy weights",
+        "Rest adequately between sets"
+      ],
+      "id": "f89854da-ba61-4861-a159-45372c39c58d",
+      "createdAt": "12/5/2023, 8:29:47 PM",
+      "updatedAt": "12/5/2023, 8:29:47 PM"
+    },
+    {
+      "name": "Flexibility Flow",
+      "mode": "Yin Yoga",
+      "equipment": [
+        "yoga blocks",
+        "bolster"
+      ],
+      "exercises": [
+        "Child's Pose",
+        "Pigeon Pose",
+        "Seated Forward Bend"
+      ],
+      "trainerTips": [
+        "Hold each pose for at least 3 minutes",
+        "Focus on deep, relaxed breathing"
+      ],
+      "id": "c874daea-eb53-4b8f-ac2a-6585997c5e9d",
+      "createdAt": "12/5/2023, 8:30:06 PM",
+      "updatedAt": "12/5/2023, 8:30:06 PM"
+    },
+    {
+      "name": "Full Body Burn",
+      "mode": "HIIT",
+      "equipment": [
+        "dumbbells",
+        "medicine ball"
+      ],
+      "exercises": [
+        "Burpees",
+        "Dumbbell Lunges",
+        "Medicine Ball Slams"
+      ],
+      "trainerTips": [
+        "Maintain a high intensity throughout the session",
+        "Use proper form for each exercise"
+      ],
+      "id": "776894a7-6104-4b7a-9093-41b0e5580bcf",
+      "createdAt": "12/5/2023, 8:30:43 PM",
+      "updatedAt": "12/5/2023, 8:30:43 PM"
+    },
+    {
+      "name": "Cyclist's Challenge",
+      "mode": "Endurance Ride",
+      "equipment": [
+        "stationary bike"
+      ],
+      "exercises": [
+        "Warm-up Spin (10 minutes)",
+        "Interval Sprints (5 sets)",
+        "Cool-down Ride (15 minutes)"
+      ],
+      "trainerTips": [
+        "Adjust resistance for an effective workout",
+        "Stay hydrated during the ride"
+      ],
+      "id": "c67b50b3-89e3-44b1-b883-259330cf506f",
+      "createdAt": "12/5/2023, 8:30:55 PM",
+      "updatedAt": "12/5/2023, 8:30:55 PM"
+    },
+    {
+      "name": "Core Activation",
+      "mode": "Tabata",
+      "equipment": [
+        "exercise mat"
+      ],
+      "exercises": [
+        "Plank (20 seconds)",
+        "Russian Twists (20 seconds)",
+        "Rest (10 seconds)"
+      ],
+      "trainerTips": [
+        "Engage your core muscles throughout",
+        "Maintain consistent breathing"
+      ],
+      "id": "f767c39f-60fe-49b1-9c50-b516c0e6756b",
+      "createdAt": "12/5/2023, 8:31:05 PM",
+      "updatedAt": "12/5/2023, 8:31:05 PM"
+    },
+    {
+      "name": "Strength Fusion",
+      "mode": "Circuit Training",
+      "equipment": [
+        "kettlebell",
+        "resistance band"
+      ],
+      "exercises": [
+        "Kettlebell Swings",
+        "Push-ups",
+        "Resistance Band Rows"
+      ],
+      "trainerTips": [
+        "Focus on controlled movements",
+        "Adjust the intensity based on your fitness level"
+      ],
+      "id": "b5171c7c-3fd2-4761-9696-162b844f96ca",
+      "createdAt": "12/5/2023, 8:31:55 PM",
+      "updatedAt": "12/5/2023, 8:31:55 PM"
+    },
+    {
+      "name": "Powerlifting Basics",
+      "mode": "Strength Training",
+      "equipment": [
+        "barbell",
+        "power rack"
+      ],
+      "exercises": [
+        "Squats",
+        "Bench Press",
+        "Deadlifts"
+      ],
+      "trainerTips": [
+        "Ensure proper form for each lift",
+        "Gradually increase weight for progression"
+      ],
+      "id": "aa1cffcd-63a6-428b-9e19-878a9c2cfe41",
+      "createdAt": "12/5/2023, 8:32:38 PM",
+      "updatedAt": "12/5/2023, 8:32:38 PM"
+    },
+    {
+      "name": "Morning Energizer",
+      "mode": "Bodyweight",
+      "equipment": [],
+      "exercises": [
+        "Jumping Jacks",
+        "Lunges",
+        "Plank"
+      ],
+      "trainerTips": [
+        "Perform each exercise with enthusiasm",
+        "Use this routine to kickstart your day"
+      ],
+      "id": "bdfa6005-59c3-4f1f-b2cd-051a0e09aa8d",
+      "createdAt": "12/5/2023, 8:32:47 PM",
+      "updatedAt": "12/5/2023, 8:32:47 PM"
+    },
+    {
+      "name": "Functional Fitness",
+      "mode": "CrossFit",
+      "equipment": [
+        "medicine ball",
+        "box"
+      ],
+      "exercises": [
+        "Wall Balls",
+        "Box Jumps",
+        "Kettlebell Snatches"
+      ],
+      "trainerTips": [
+        "Maintain a steady pace throughout the circuit",
+        "Focus on full-body engagement"
+      ],
+      "id": "9bade6ff-09b0-4f09-b985-e9cfb81bac91",
+      "createdAt": "12/5/2023, 8:32:59 PM",
+      "updatedAt": "12/5/2023, 8:32:59 PM"
+    },
+    {
+      "name": "Mindful Meditation",
+      "mode": "Guided Meditation",
+      "equipment": [],
+      "exercises": [
+        "Deep Breathing",
+        "Body Scan",
+        "Visualization"
+      ],
+      "trainerTips": [
+        "Find a quiet and comfortable space",
+        "Let go of distractions and focus inward"
+      ],
+      "id": "5dd4f916-4679-4778-81aa-99c35cfc559c",
+      "createdAt": "12/5/2023, 8:33:08 PM",
+      "updatedAt": "12/5/2023, 8:33:08 PM"
+    },
+    {
+      "name": "Quick Circuit Burn",
+      "mode": "High Intensity",
+      "equipment": [
+        "dumbbells",
+        "jump rope"
+      ],
+      "exercises": [
+        "Dumbbell Thrusters",
+        "Jump Rope Intervals",
+        "Mountain Climbers"
+      ],
+      "trainerTips": [
+        "Push yourself during each interval",
+        "Stay focused on form and intensity"
+      ],
+      "id": "5a038e67-22ff-46aa-9790-6de36fd4ee2a",
+      "createdAt": "12/5/2023, 8:33:32 PM",
+      "updatedAt": "12/5/2023, 8:33:32 PM"
+    },
+    {
+      "name": "Pilates Power",
+      "mode": "Mat Pilates",
+      "equipment": [
+        "Pilates ring",
+        "mat"
+      ],
+      "exercises": [
+        "Hundred",
+        "Leg Circles",
+        "Swan Dive"
+      ],
+      "trainerTips": [
+        "Engage your core throughout the session",
+        "Focus on controlled and precise movements"
+      ],
+      "id": "5e2074f3-68a4-4408-93be-6d3adc4d0679",
+      "createdAt": "12/5/2023, 8:33:43 PM",
+      "updatedAt": "12/5/2023, 8:33:43 PM"
+    },
+    {
+      "name": "Calorie Burner",
+      "mode": "HIIT",
+      "equipment": [
+        "treadmill",
+        "dumbbells"
+      ],
+      "exercises": [
+        "Treadmill Sprints",
+        "Bicep Curls",
+        "Jumping Lunges"
+      ],
+      "trainerTips": [
+        "Alternate between cardio and strength exercises",
+        "Push yourself during the sprint intervals"
+      ],
+      "id": "91bfa28a-9f38-45fa-ae0a-dd69bf0db6b2",
+      "createdAt": "12/5/2023, 8:34:40 PM",
+      "updatedAt": "12/5/2023, 8:34:40 PM"
+    },
+    {
+      "name": "Relaxation Retreat",
+      "mode": "Yin Yoga",
+      "equipment": [
+        "bolster",
+        "blanket"
+      ],
+      "exercises": [
+        "Supported Child's Pose",
+        "Sphinx Pose",
+        "Legs Up the Wall"
+      ],
+      "trainerTips": [
+        "Focus on deep, slow breaths",
+        "Use props for added comfort and support"
+      ],
+      "id": "aca49942-8ec9-4d90-9612-52b514879c3f",
+      "createdAt": "12/5/2023, 8:34:50 PM",
+      "updatedAt": "12/5/2023, 8:34:50 PM"
+    },
+    {
+      "name": "Full Body Fusion",
+      "mode": "Functional Fitness",
+      "equipment": [
+        "medicine ball",
+        "resistance band"
+      ],
+      "exercises": [
+        "Medicine Ball Slams",
+        "Resistance Band Pulls",
+        "Plank with Leg Lifts"
+      ],
+      "trainerTips": [
+        "Engage your core in every exercise",
+        "Focus on full-body coordination"
+      ],
+      "id": "27c0460a-d3eb-4971-a05e-9aa6b59e3e95",
+      "createdAt": "12/5/2023, 8:35:11 PM",
+      "updatedAt": "12/5/2023, 8:35:11 PM"
+    },
+    {
+      "name": "Dynamic Stretching",
+      "mode": "Mobility",
+      "equipment": [
+        "foam roller",
+        "elastic band"
+      ],
+      "exercises": [
+        "Hip Flexor Stretch",
+        "Shoulder Mobility",
+        "Dynamic Leg Swings"
+      ],
+      "trainerTips": [
+        "Move through each stretch with control",
+        "Incorporate dynamic movements for warm-up"
+      ],
+      "id": "39c17c6d-464a-4c8b-b19c-bc2d589189d6",
+      "createdAt": "12/5/2023, 8:35:38 PM",
+      "updatedAt": "12/5/2023, 8:35:38 PM"
+    },
+    {
+      "name": "Upper Body Sculpt",
+      "mode": "Strength Training",
+      "equipment": [
+        "barbell",
+        "dumbbells"
+      ],
+      "exercises": [
+        "Shoulder Press",
+        "Bent-Over Rows",
+        "Tricep Dips"
+      ],
+      "trainerTips": [
+        "Maintain proper form for each lift",
+        "Adjust weights for challenging reps"
+      ],
+      "id": "87b29ec2-c172-4fc8-be2a-9f65e73cafd1",
+      "createdAt": "12/5/2023, 8:35:48 PM",
+      "updatedAt": "12/5/2023, 8:35:48 PM"
+    },
+    {
+      "name": "Mindful Movement",
+      "mode": "Tai Chi",
+      "equipment": [],
+      "exercises": [
+        "Cloud Hands",
+        "Grasping the Sparrow's Tail",
+        "Tai Chi Walk"
+      ],
+      "trainerTips": [
+        "Flow through movements with grace",
+        "Focus on the connection between mind and body"
+      ],
+      "id": "9167ef6b-2860-4813-97f2-003ebe96ab43",
+      "createdAt": "12/5/2023, 8:35:59 PM",
+      "updatedAt": "12/5/2023, 8:35:59 PM"
+    },
+    {
+      "name": "Agile Agility",
+      "mode": "Agility Drills",
+      "equipment": [
+        "agility ladder",
+        "cones"
+      ],
+      "exercises": [
+        "Ladder Drills",
+        "Cone Shuttles",
+        "Quick Steps"
+      ],
+      "trainerTips": [
+        "Keep movements light and quick",
+        "Focus on precision in each drill"
+      ],
+      "id": "d4a331b4-eebe-49a9-bba2-cc1a79ebf2a2",
+      "createdAt": "12/5/2023, 8:36:38 PM",
+      "updatedAt": "12/5/2023, 8:36:38 PM"
+    },
+    {
+      "name": "Zen Meditation",
+      "mode": "Meditation",
+      "equipment": [],
+      "exercises": [
+        "Breath Awareness",
+        "Body Scan",
+        "Loving-Kindness Meditation"
+      ],
+      "trainerTips": [
+        "Find a quiet and comfortable space",
+        "Let go of distractions and focus inward"
+      ],
+      "id": "c6c06e1a-3546-450e-8fd1-ed37cdb517ce",
+      "createdAt": "12/5/2023, 8:36:48 PM",
+      "updatedAt": "12/5/2023, 8:36:48 PM"
+    },
+    {
+      "name": "Circuit Blast",
+      "mode": "Circuit Training",
+      "equipment": [
+        "kettlebell",
+        "battle ropes"
+      ],
+      "exercises": [
+        "Kettlebell Swings",
+        "Battle Rope Slams",
+        "Box Jumps"
+      ],
+      "trainerTips": [
+        "Keep transitions between exercises quick",
+        "Challenge yourself with intensity"
+      ],
+      "id": "5044d20f-1786-449e-8095-857910ad92bd",
+      "createdAt": "12/5/2023, 8:36:59 PM",
+      "updatedAt": "12/5/2023, 8:36:59 PM"
+    },
+    {
+      "name": "Flex and Flow Yoga",
+      "mode": "Vinyasa Flow",
+      "equipment": [
+        "yoga mat",
+        "yoga blocks"
+      ],
+      "exercises": [
+        "Sun Salutations",
+        "Warrior Poses",
+        "Downward Facing Dog"
+      ],
+      "trainerTips": [
+        "Connect breath with movement",
+        "Modify poses for your comfort"
+      ],
+      "id": "20aca027-9276-4763-bce5-d7d617400858",
+      "createdAt": "12/5/2023, 8:40:16 PM",
+      "updatedAt": "12/5/2023, 8:40:16 PM"
+    },
+    {
+      "name": "Cardio Kickboxing",
+      "mode": "Kickboxing",
+      "equipment": [
+        "boxing gloves",
+        "punching bag"
+      ],
+      "exercises": [
+        "Jab-Cross Combos",
+        "Roundhouse Kicks",
+        "Speed Drills"
+      ],
+      "trainerTips": [
+        "Maintain proper stance and form",
+        "Embrace the power in your movements"
+      ],
+      "id": "3d8fb20a-9c53-4676-bbc1-ee449b6e4a50",
+      "createdAt": "12/5/2023, 8:40:29 PM",
+      "updatedAt": "12/5/2023, 8:40:29 PM"
+    },
+    {
+      "name": "Balance and Stability",
+      "mode": "Pilates",
+      "equipment": [
+        "stability ball",
+        "resistance ring"
+      ],
+      "exercises": [
+        "Plank Variations",
+        "Leg Circles",
+        "Hundreds"
+      ],
+      "trainerTips": [
+        "Engage your core throughout",
+        "Focus on controlled, deliberate movements"
+      ],
+      "id": "9ed34892-f831-4f00-a6a7-17d144bdf065",
+      "createdAt": "12/5/2023, 8:40:39 PM",
+      "updatedAt": "12/5/2023, 8:40:39 PM"
+    },
+    {
+      "name": "Morning Mobility",
+      "mode": "Mobility",
+      "equipment": [
+        "foam roller",
+        "lacrosse ball"
+      ],
+      "exercises": [
+        "Neck Rolls",
+        "Hip Flexor Stretches",
+        "Ankle Circles"
+      ],
+      "trainerTips": [
+        "Ease into each movement",
+        "Pay attention to areas of tightness"
+      ],
+      "id": "44be4b2b-0b7e-4090-b224-92916d5107e6",
+      "createdAt": "12/5/2023, 8:41:01 PM",
+      "updatedAt": "12/5/2023, 8:41:01 PM"
+    },
+    {
+      "name": "Bodyweight Burnout",
+      "mode": "Calisthenics",
+      "equipment": [],
+      "exercises": [
+        "Push-Ups",
+        "Bodyweight Squats",
+        "Burpees"
+      ],
+      "trainerTips": [
+        "Maintain a steady pace",
+        "Focus on quality reps"
+      ],
+      "id": "7cd681e5-4ddf-42fd-96fb-a0b4b5122526",
+      "createdAt": "12/5/2023, 8:41:10 PM",
+      "updatedAt": "12/5/2023, 8:41:10 PM"
+    },
+    {
+      "name": "Core Crusher",
+      "mode": "Core Strengthening",
+      "equipment": [
+        "exercise ball",
+        "ab wheel"
+      ],
+      "exercises": [
+        "Plank Variations",
+        "Russian Twists",
+        "Hollow Body Holds"
+      ],
+      "trainerTips": [
+        "Engage core muscles throughout",
+        "Gradually increase workout duration"
+      ],
+      "id": "71eaae09-8952-4ec0-bbbd-faf0296b303f",
+      "createdAt": "12/5/2023, 8:41:20 PM",
+      "updatedAt": "12/5/2023, 8:41:20 PM"
+    },
+    {
+      "name": "Functional Fitness Fusion",
+      "mode": "Functional Fitness",
+      "equipment": [
+        "kettlebell",
+        "resistance band"
+      ],
+      "exercises": [
+        "Kettlebell Swings",
+        "Resistance Band Pulls",
+        "Lunges with Rotation"
+      ],
+      "trainerTips": [
+        "Incorporate everyday movements",
+        "Focus on full-body coordination"
+      ],
+      "id": "5a96789b-2469-45ce-9b61-9c616e25347d",
+      "createdAt": "12/5/2023, 8:41:28 PM",
+      "updatedAt": "12/5/2023, 8:41:28 PM"
+    },
+    {
+      "name": "Zumba Party",
+      "mode": "Zumba",
+      "equipment": [],
+      "exercises": [
+        "Salsa",
+        "Merengue",
+        "Reggaeton"
+      ],
+      "trainerTips": [
+        "Let loose and have fun",
+        "Move to the rhythm of the music"
+      ],
+      "id": "1ca96815-e075-4ed5-b49e-af33a8c73e3d",
+      "createdAt": "12/5/2023, 8:41:37 PM",
+      "updatedAt": "12/5/2023, 8:41:37 PM"
+    },
+    {
+      "name": "Strength & Serenity",
+      "mode": "Strength Training",
+      "equipment": [
+        "dumbbells",
+        "yoga mat"
+      ],
+      "exercises": [
+        "Chest Press",
+        "Leg Raises",
+        "Seated Meditation"
+      ],
+      "trainerTips": [
+        "Combine strength and mindfulness",
+        "Embrace the mind-body connection"
+      ],
+      "id": "ab06167f-bf5a-441a-b15b-5df6164ae887",
+      "createdAt": "12/5/2023, 8:41:46 PM",
+      "updatedAt": "12/5/2023, 8:41:46 PM"
+    },
+    {
+      "name": "Trail Runner's Delight",
+      "mode": "Running",
+      "equipment": [
+        "running shoes",
+        "hydration pack"
+      ],
+      "exercises": [
+        "Trail Run",
+        "Hill Sprints",
+        "Cool Down Jog"
+      ],
+      "trainerTips": [
+        "Choose scenic trails for a refreshing run",
+        "Stay hydrated during longer runs"
+      ],
+      "id": "3c4576f9-42f7-4189-ad5c-09a529a7742d",
+      "createdAt": "12/5/2023, 8:41:55 PM",
+      "updatedAt": "12/5/2023, 8:41:55 PM"
+    },
+    {
+      "name": "High-Intensity Hustle",
+      "mode": "HIIT",
+      "equipment": [
+        "jump rope",
+        "dumbbells"
+      ],
+      "exercises": [
+        "Jump Rope Intervals",
+        "Dumbbell Snatches",
+        "Mountain Climbers"
+      ],
+      "trainerTips": [
+        "Push yourself during intense intervals",
+        "Focus on controlled movements"
+      ],
+      "id": "dd849fcc-9796-49a2-bbcc-a8fcb0c32105",
+      "createdAt": "12/5/2023, 8:42:04 PM",
+      "updatedAt": "12/5/2023, 8:42:04 PM"
+    },
+    {
+      "name": "Swim & Stretch",
+      "mode": "Swimming",
+      "equipment": [
+        "swimsuit",
+        "goggles"
+      ],
+      "exercises": [
+        "Freestyle Swimming",
+        "Water Aerobics",
+        "Floating Meditation"
+      ],
+      "trainerTips": [
+        "Include dynamic stretches in the water",
+        "Enjoy the calming effect of swimming"
+      ],
+      "id": "96f6ea35-03bb-4b48-9221-527ae3d4b2c1",
+      "createdAt": "12/5/2023, 8:42:14 PM",
+      "updatedAt": "12/5/2023, 8:42:14 PM"
+    },
+    {
+      "name": "Quick Core Blast",
+      "mode": "Core Workout",
+      "equipment": [],
+      "exercises": [
+        "Quick Ab Circuits",
+        "Leg Raises",
+        "Plank Variations"
+      ],
+      "trainerTips": [
+        "Perform exercises with controlled movements",
+        "Engage core muscles in every rep"
+      ],
+      "id": "36812659-3adf-4b0b-ad80-c0513cbe0f7e",
+      "createdAt": "12/5/2023, 8:42:23 PM",
+      "updatedAt": "12/5/2023, 8:42:23 PM"
+    },
+    {
+      "name": "Dance Fusion",
+      "mode": "Dance Workout",
+      "equipment": [],
+      "exercises": [
+        "Hip Hop Dance",
+        "Latin Dance",
+        "Funk Grooves"
+      ],
+      "trainerTips": [
+        "Express yourself through dance",
+        "Combine various dance styles for a fun workout"
+      ],
+      "id": "f54a3443-a962-4b11-8aaa-42efc9d72d7f",
+      "createdAt": "12/5/2023, 8:42:32 PM",
+      "updatedAt": "12/5/2023, 8:42:32 PM"
+    },
+    {
+      "name": "MMA Conditioning",
+      "mode": "Mixed Martial Arts",
+      "equipment": [
+        "boxing gloves",
+        "kick pads"
+      ],
+      "exercises": [
+        "Shadow Boxing",
+        "Kick Combos",
+        "Ground and Pound Drills"
+      ],
+      "trainerTips": [
+        "Focus on technique and form",
+        "Incorporate cardio into your MMA workout"
+      ],
+      "id": "8054c45d-bed3-4928-83ad-57f0a6eb9047",
+      "createdAt": "12/5/2023, 8:42:43 PM",
+      "updatedAt": "12/5/2023, 8:42:43 PM"
+    },
+    {
+      "name": "Energetic Endurance",
+      "mode": "Endurance Training",
+      "equipment": [
+        "running shoes",
+        "hydration pack"
+      ],
+      "exercises": [
+        "Long-Distance Run",
+        "Interval Sprints",
+        "Cool Down Jog"
+      ],
+      "trainerTips": [
+        "Build stamina through consistent training",
+        "Include a mix of short and long runs"
+      ],
+      "id": "0d0c578c-5df0-44c1-ab22-6b2c4ec4f546",
+      "createdAt": "12/5/2023, 8:42:51 PM",
+      "updatedAt": "12/5/2023, 8:42:51 PM"
+    },
+    {
+      "name": "Yoga for Relaxation",
+      "mode": "Yoga",
+      "equipment": [
+        "yoga mat",
+        "blanket"
+      ],
+      "exercises": [
+        "Gentle Stretches",
+        "Breathwork",
+        "Savasana"
+      ],
+      "trainerTips": [
+        "Create a calming atmosphere for your practice",
+        "Focus on deep, mindful breaths"
+      ],
+      "id": "87586f28-9c62-495a-b77e-716cd3b1ed28",
+      "createdAt": "12/5/2023, 8:43:00 PM",
+      "updatedAt": "12/5/2023, 8:43:00 PM"
     }
   ]
 }
