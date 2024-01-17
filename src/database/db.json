@@ -1,0 +1,1012 @@
+{
+  "workouts": [
+    {
+      "name": "HIIT Express",
+      "mode": "HIIT",
+      "equipment": [
+        "jump rope",
+        "dumbbells"
+      ],
+      "exercises": [
+        "Jumping Jacks",
+        "Burpees",
+        "Dumbbell Thrusters"
+      ],
+      "trainerTips": [
+        "Maintain a consistent pace",
+        "Focus on proper form"
+      ],
+      "bodypart": "Full Body",
+      "imgUrl": "https://i.pinimg.com/564x/c4/84/27/c48427c9d6a2802bcb7fc66b07931756.jpg",
+      "id": "737c9188-4949-4778-8268-737862390dda",
+      "createdAt": "1/17/2024, 1:28:49 PM",
+      "updatedAt": "1/17/2024, 1:28:49 PM"
+    },
+    {
+      "name": "Core Ignition",
+      "mode": "AMRAP 15",
+      "equipment": [
+        "abmat",
+        "kettlebell"
+      ],
+      "exercises": [
+        "Russian Twists",
+        "Kettlebell Swings",
+        "Plank"
+      ],
+      "trainerTips": [
+        "Engage your core muscles",
+        "Control your breathing"
+      ],
+      "bodypart": "Core",
+      "imgUrl": "https://i.pinimg.com/564x/65/24/ce/6524ce699e97d97455ceb6dc078c714a.jpg",
+      "id": "d5f23620-98cf-4c66-8984-1c6f4ed7147b",
+      "createdAt": "1/17/2024, 1:38:56 PM",
+      "updatedAt": "1/17/2024, 1:38:56 PM"
+    },
+    {
+      "name": "Leg Day Burn",
+      "mode": "For Time",
+      "equipment": [
+        "barbell",
+        "box"
+      ],
+      "exercises": [
+        "Back Squats",
+        "Box Jumps",
+        "Walking Lunges"
+      ],
+      "trainerTips": [
+        "Maintain proper squat form",
+        "Land softly during box jumps"
+      ],
+      "bodypart": "Legs",
+      "imgUrl": "https://i.pinimg.com/564x/c4/f4/fe/c4f4fea3a899ded5d2649df23ec3c1b4.jpg",
+      "id": "d1ddd874-7a66-4d98-abce-4fefea9e5244",
+      "createdAt": "1/17/2024, 1:41:06 PM",
+      "updatedAt": "1/17/2024, 1:41:06 PM"
+    },
+    {
+      "name": "Yoga Flow",
+      "mode": "Yoga",
+      "equipment": [
+        "yoga mat",
+        "yoga block"
+      ],
+      "exercises": [
+        "Sun Salutations",
+        "Warrior Poses",
+        "Child's Pose"
+      ],
+      "trainerTips": [
+        "Focus on your breath",
+        "Flow through the poses mindfully"
+      ],
+      "bodypart": "Flexibility",
+      "imgUrl": "https://i.pinimg.com/564x/3c/70/22/3c7022bd5c87d4b6d8b37883f5dd8b15.jpg",
+      "id": "12c6dd6a-6986-4a76-a2cd-f2a9bb5aab0d",
+      "createdAt": "1/17/2024, 1:44:31 PM",
+      "updatedAt": "1/17/2024, 1:44:31 PM"
+    },
+    {
+      "name": "Upper Body Sculpt",
+      "mode": "EMOM 12",
+      "equipment": [
+        "dumbbells",
+        "resistance bands"
+      ],
+      "exercises": [
+        "Bicep Curls",
+        "Overhead Press",
+        "Tricep Dips"
+      ],
+      "trainerTips": [
+        "Choose weights that challenge you",
+        "Maintain proper form throughout"
+      ],
+      "bodypart": "Upper Body",
+      "imgUrl": "https://i.pinimg.com/564x/cb/8d/29/cb8d2970a822c40a85c56d808351c1f7.jpg",
+      "id": "c6b44af0-830e-415d-b930-38e0853b0c7c",
+      "createdAt": "1/17/2024, 1:45:04 PM",
+      "updatedAt": "1/17/2024, 1:45:04 PM"
+    },
+    {
+      "name": "Cardio Burnout",
+      "mode": "Tabata",
+      "equipment": [
+        "jump rope",
+        "stationary bike"
+      ],
+      "exercises": [
+        "Jump Rope Intervals",
+        "Sprint on Stationary Bike"
+      ],
+      "trainerTips": [
+        "Go all-out during work intervals",
+        "Recover fully during rest intervals"
+      ],
+      "bodypart": "Cardio",
+      "imgUrl": "https://i.pinimg.com/564x/51/5d/fb/515dfbfbd17e8b1854b19138a6489ad9.jpg",
+      "id": "d7df2a43-2cd7-41c9-8bed-5dac0ad8f900",
+      "createdAt": "1/17/2024, 1:45:46 PM",
+      "updatedAt": "1/17/2024, 1:45:46 PM"
+    },
+    {
+      "name": "Strength Circuit",
+      "mode": "Circuit Training",
+      "equipment": [
+        "barbell",
+        "kettlebell"
+      ],
+      "exercises": [
+        "Deadlifts",
+        "Kettlebell Swings",
+        "Push-ups"
+      ],
+      "trainerTips": [
+        "Focus on endurance and form",
+        "Complete one round without resting"
+      ],
+      "bodypart": "Full Body",
+      "imgUrl": "https://i.pinimg.com/564x/46/ab/0c/46ab0c3064cd4705e496dee2e05cf0dd.jpg",
+      "id": "7e38c5fe-6072-4d9f-b97c-e3f9f9d45697",
+      "createdAt": "1/17/2024, 1:47:13 PM",
+      "updatedAt": "1/17/2024, 1:47:13 PM"
+    },
+    {
+      "name": "Morning Energizer",
+      "mode": "AMRAP 20",
+      "equipment": [
+        "yoga mat",
+        "dumbbells"
+      ],
+      "exercises": [
+        "Jumping Jacks",
+        "Squats",
+        "Renegade Rows"
+      ],
+      "trainerTips": [
+        "Start with a light warm-up",
+        "Maintain a steady pace throughout"
+      ],
+      "bodypart": "Full Body",
+      "imgUrl": "https://i.pinimg.com/564x/b5/2f/ab/b52fab76c75e67a1a67526d4185221a3.jpg",
+      "id": "4284dbbd-5d9e-476c-abc1-7f2e5c56d544",
+      "createdAt": "1/17/2024, 1:47:57 PM",
+      "updatedAt": "1/17/2024, 1:47:57 PM"
+    },
+    {
+      "name": "Core Stability",
+      "mode": "EMOM 15",
+      "equipment": [
+        "exercise ball",
+        "mat"
+      ],
+      "exercises": [
+        "Plank",
+        "Russian Twists",
+        "Leg Raises"
+      ],
+      "trainerTips": [
+        "Engage your core muscles",
+        "Focus on controlled movements"
+      ],
+      "bodypart": "Core",
+      "imgUrl": "https://i.pinimg.com/564x/1a/b5/b4/1ab5b42c2c9bbafd62cf9a972a5fcc8e.jpg",
+      "id": "37c7ec7a-fcd3-42aa-a5ca-755f1e730e12",
+      "createdAt": "1/17/2024, 1:48:24 PM",
+      "updatedAt": "1/17/2024, 1:48:24 PM"
+    },
+    {
+      "name": "HIIT Power",
+      "mode": "HIIT",
+      "equipment": [
+        "kettlebell",
+        "jump rope"
+      ],
+      "exercises": [
+        "Kettlebell Swings",
+        "Box Jumps",
+        "Burpees"
+      ],
+      "trainerTips": [
+        "Push yourself during high-intensity intervals",
+        "Take adequate rest during rest intervals"
+      ],
+      "bodypart": "Full Body",
+      "imgUrl": "https://i.pinimg.com/564x/1a/30/4a/1a304a38de587f553e1bf418d97897a4.jpg",
+      "id": "dc247fcf-6847-4e5e-bc92-c770b2c9a9e7",
+      "createdAt": "1/17/2024, 1:49:28 PM",
+      "updatedAt": "1/17/2024, 1:49:28 PM"
+    },
+    {
+      "name": "Flexibility Flow",
+      "mode": "Yoga",
+      "equipment": [
+        "yoga mat",
+        "yoga strap"
+      ],
+      "exercises": [
+        "Downward Dog",
+        "Seated Forward Bend",
+        "Pigeon Pose"
+      ],
+      "trainerTips": [
+        "Focus on deep, mindful stretches",
+        "Breathe deeply throughout the flow"
+      ],
+      "bodypart": "Flexibility",
+      "imgUrl": "https://i.pinimg.com/564x/3c/70/22/3c7022bd5c87d4b6d8b37883f5dd8b15.jpg",
+      "id": "16f876e5-70b2-49f7-b85b-dd550aff5ade",
+      "createdAt": "1/17/2024, 1:50:09 PM",
+      "updatedAt": "1/17/2024, 1:50:09 PM"
+    },
+    {
+      "name": "Cardio Burn",
+      "mode": "Cardio",
+      "equipment": [
+        "treadmill",
+        "jump rope"
+      ],
+      "exercises": [
+        "Running",
+        "Jump Rope",
+        "High Knees"
+      ],
+      "trainerTips": [
+        "Maintain a steady pace during cardio",
+        "Incorporate high-intensity bursts for variation"
+      ],
+      "bodypart": "Cardiovascular",
+      "imgUrl": "https://i.pinimg.com/564x/2d/e7/4a/2de74a4460516b0f83248104926c5cbe.jpg",
+      "id": "939b372c-64ec-4940-ad32-4dd828943665",
+      "createdAt": "1/17/2024, 1:52:32 PM",
+      "updatedAt": "1/17/2024, 1:52:32 PM"
+    },
+    {
+      "name": "Leg Day Blast",
+      "mode": "Strength",
+      "equipment": [
+        "barbell",
+        "leg press machine"
+      ],
+      "exercises": [
+        "Squats",
+        "Leg Press",
+        "Lunges"
+      ],
+      "trainerTips": [
+        "Focus on full range of motion",
+        "Use challenging weights for leg exercises"
+      ],
+      "bodypart": "Legs",
+      "imgUrl": "https://i.pinimg.com/564x/c3/85/92/c385927bf41b4e20cd29e62ffff4181b.jpg",
+      "id": "fc469a97-4c3a-466e-b9c2-3267accca891",
+      "createdAt": "1/17/2024, 1:53:08 PM",
+      "updatedAt": "1/17/2024, 1:53:08 PM"
+    },
+    {
+      "name": "Mindful Stretch",
+      "mode": "Stretching",
+      "equipment": [
+        "yoga mat",
+        "foam roller"
+      ],
+      "exercises": [
+        "Child's Pose",
+        "Foam Rolling",
+        "Seated Twist"
+      ],
+      "trainerTips": [
+        "Focus on gentle, mindful stretches",
+        "Listen to your body and avoid overstretching"
+      ],
+      "bodypart": "Flexibility",
+      "imgUrl": "https://i.pinimg.com/564x/93/30/f6/9330f65161d400fff96e0edf63203648.jpg",
+      "id": "5ac454a2-21bc-4880-a921-8a68b0fe64e1",
+      "createdAt": "1/17/2024, 1:53:51 PM",
+      "updatedAt": "1/17/2024, 1:53:51 PM"
+    },
+    {
+      "name": "HIIT Explosion",
+      "mode": "HIIT",
+      "equipment": [
+        "kettlebell",
+        "jump rope"
+      ],
+      "exercises": [
+        "Kettlebell Swings",
+        "Burpees",
+        "Mountain Climbers"
+      ],
+      "trainerTips": [
+        "Keep a high intensity throughout",
+        "Take short breaks between exercises"
+      ],
+      "bodypart": "Full Body",
+      "imgUrl": "https://i.pinimg.com/564x/ab/6d/c4/ab6dc4ec6e0e0d815191d44c59e11eef.jpg",
+      "id": "dbc56a98-3455-4896-a762-a3cbdf4484cf",
+      "createdAt": "1/17/2024, 1:56:48 PM",
+      "updatedAt": "1/17/2024, 1:56:48 PM"
+    },
+    {
+      "name": "Upper Body Pump",
+      "mode": "Strength",
+      "equipment": [
+        "dumbbells",
+        "bench"
+      ],
+      "exercises": [
+        "Shoulder Press",
+        "Bent-Over Rows",
+        "Tricep Dips"
+      ],
+      "trainerTips": [
+        "Maintain control during strength exercises",
+        "Adjust weights for each exercise"
+      ],
+      "bodypart": "Upper Body",
+      "imgUrl": "https://i.pinimg.com/564x/36/d6/22/36d6228ea68270a9ceb40634aa664697.jpg",
+      "id": "09e2de98-5c93-4274-b665-e5f2b264c346",
+      "createdAt": "1/17/2024, 1:58:04 PM",
+      "updatedAt": "1/17/2024, 1:58:04 PM"
+    },
+    {
+      "name": "Agility Challenge",
+      "mode": "Agility",
+      "equipment": [
+        "agility ladder",
+        "cones"
+      ],
+      "exercises": [
+        "Ladder Drills",
+        "Cone Jumps",
+        "Shuttle Runs"
+      ],
+      "trainerTips": [
+        "Focus on quick and precise movements",
+        "Challenge yourself with agility variations"
+      ],
+      "bodypart": "Full Body",
+      "imgUrl": "https://i.pinimg.com/564x/f5/6e/f1/f56ef161b3db0294be1a3b97e8ea2395.jpg",
+      "id": "6ea8f9f1-ea97-4101-9e97-158c4202bbae",
+      "createdAt": "1/17/2024, 1:58:38 PM",
+      "updatedAt": "1/17/2024, 1:58:38 PM"
+    },
+    {
+      "name": "Mindful Meditation",
+      "mode": "Mindfulness",
+      "equipment": [
+        "meditation cushion",
+        "blanket"
+      ],
+      "exercises": [
+        "Breath Awareness",
+        "Body Scan",
+        "Loving-Kindness Meditation"
+      ],
+      "trainerTips": [
+        "Find a quiet and comfortable space",
+        "Allow thoughts to come and go without judgment"
+      ],
+      "bodypart": "Mind",
+      "imgUrl": "https://i.pinimg.com/564x/4f/99/e7/4f99e7f5426754c673e451a5d3561755.jpg",
+      "id": "164e6ca4-86cd-4a3e-99c9-29824a04d9a2",
+      "createdAt": "1/17/2024, 1:59:27 PM",
+      "updatedAt": "1/17/2024, 1:59:27 PM"
+    },
+    {
+      "name": "Leg Day Burnout",
+      "mode": "Strength",
+      "equipment": [
+        "barbell",
+        "leg press machine"
+      ],
+      "exercises": [
+        "Barbell Squats",
+        "Leg Press",
+        "Lunges"
+      ],
+      "trainerTips": [
+        "Maintain proper form during squats",
+        "Adjust the weight to challenge your legs"
+      ],
+      "bodypart": "Legs",
+      "imgUrl": "https://i.pinimg.com/736x/4b/93/bf/4b93bf2fe8b65ffc723a595fa1fcc027.jpg",
+      "id": "c19c6243-0eef-42f7-8f98-1ec257e8c1d8",
+      "createdAt": "1/17/2024, 2:04:16 PM",
+      "updatedAt": "1/17/2024, 2:04:16 PM"
+    },
+    {
+      "name": "Core Crusher",
+      "mode": "Core",
+      "equipment": [
+        "medicine ball",
+        "mat"
+      ],
+      "exercises": [
+        "Russian Twists",
+        "Plank Variations",
+        "Medicine Ball Crunches"
+      ],
+      "trainerTips": [
+        "Engage your core throughout the workout",
+        "Focus on controlled movements"
+      ],
+      "bodypart": "Abdominals",
+      "imgUrl": "https://i.pinimg.com/564x/a9/3d/3e/a93d3e387f2b5f87443d341e549311a5.jpg",
+      "id": "8508300b-ddd5-4c94-8872-0a9961451d48",
+      "createdAt": "1/17/2024, 2:04:52 PM",
+      "updatedAt": "1/17/2024, 2:04:52 PM"
+    },
+    {
+      "name": "Cardio Kick",
+      "mode": "Cardio",
+      "equipment": [
+        "jump rope",
+        "boxing gloves"
+      ],
+      "exercises": [
+        "Jump Rope Intervals",
+        "Boxing Combos",
+        "High Knees"
+      ],
+      "trainerTips": [
+        "Maintain a steady pace during jump rope",
+        "Incorporate power into your boxing moves"
+      ],
+      "bodypart": "Full Body",
+      "imgUrl": "https://i.pinimg.com/564x/03/95/79/0395794e5df924026ca078f68619a5fe.jpg",
+      "id": "fef83e98-19c7-4567-994b-e2e7b783c079",
+      "createdAt": "1/17/2024, 2:05:23 PM",
+      "updatedAt": "1/17/2024, 2:05:23 PM"
+    },
+    {
+      "name": "Stretch and Flex",
+      "mode": "Flexibility",
+      "equipment": [
+        "yoga mat",
+        "stretching strap"
+      ],
+      "exercises": [
+        "Dynamic Stretches",
+        "Static Stretching",
+        "Pilates Movements"
+      ],
+      "trainerTips": [
+        "Focus on your breathing during stretches",
+        "Extend each stretch for at least 30 seconds"
+      ],
+      "bodypart": "Full Body",
+      "imgUrl": "https://i.pinimg.com/564x/9e/58/b3/9e58b38fed15fce686140795840bde5e.jpg",
+      "id": "b61fdf0c-e8d0-4c36-a607-edfe1583d2ad",
+      "createdAt": "1/17/2024, 2:06:05 PM",
+      "updatedAt": "1/17/2024, 2:06:05 PM"
+    },
+    {
+      "name": "Upper Body Blast",
+      "mode": "Strength",
+      "equipment": [
+        "dumbbells",
+        "bench"
+      ],
+      "exercises": [
+        "Bench Press",
+        "Bicep Curls",
+        "Shoulder Press"
+      ],
+      "trainerTips": [
+        "Focus on controlled movements for bicep curls",
+        "Maintain a stable bench position during bench press"
+      ],
+      "bodypart": "Upper Body",
+      "imgUrl": "https://i.pinimg.com/564x/4c/9d/71/4c9d718b395d1d9b9106051613e7df85.jpg",
+      "id": "9a6fd6f5-5ddf-4e34-ac72-ee4390bd9ea3",
+      "createdAt": "1/17/2024, 2:08:21 PM",
+      "updatedAt": "1/17/2024, 2:08:21 PM"
+    },
+    {
+      "name": "Endurance Challenge",
+      "mode": "Endurance",
+      "equipment": [
+        "treadmill",
+        "kettlebell"
+      ],
+      "exercises": [
+        "Running Intervals",
+        "Kettlebell Swings",
+        "Burpees"
+      ],
+      "trainerTips": [
+        "Gradually increase the speed during running intervals",
+        "Maintain a consistent pace for kettlebell swings"
+      ],
+      "bodypart": "Full Body",
+      "imgUrl": "https://i.pinimg.com/736x/59/42/02/59420253bcabfadd8af78b3d027e6935.jpg",
+      "id": "61f10b91-787d-4915-9775-49e608fe1721",
+      "createdAt": "1/17/2024, 2:11:20 PM",
+      "updatedAt": "1/17/2024, 2:11:20 PM"
+    },
+    {
+      "name": "Balance Flow",
+      "mode": "Balance",
+      "equipment": [
+        "balance ball",
+        "yoga mat"
+      ],
+      "exercises": [
+        "Single-Leg Balance",
+        "Plank Variations",
+        "Balance Ball Squats"
+      ],
+      "trainerTips": [
+        "Engage your core for stability",
+        "Start with simpler balance exercises and progress"
+      ],
+      "bodypart": "Core",
+      "imgUrl": "https://i.pinimg.com/736x/49/cc/87/49cc87f0ee905c9cb3b5644151d01f62.jpg",
+      "id": "c12e7d41-1384-4bdc-bd79-3be7c6a9f263",
+      "createdAt": "1/17/2024, 2:13:24 PM",
+      "updatedAt": "1/17/2024, 2:13:24 PM"
+    },
+    {
+      "name": "Power Plyometrics",
+      "mode": "Plyometrics",
+      "equipment": [
+        "plyo box",
+        "jump rope"
+      ],
+      "exercises": [
+        "Box Jumps",
+        "Jump Squats",
+        "Double-Unders"
+      ],
+      "trainerTips": [
+        "Focus on explosive movements",
+        "Land softly during box jumps"
+      ],
+      "bodypart": "Lower Body",
+      "imgUrl": "https://i.pinimg.com/736x/05/81/57/0581572c601f6af024de80f7a3644cb9.jpg",
+      "id": "075e9b7d-d501-43f4-b991-5a5bd85ed2cc",
+      "createdAt": "1/17/2024, 2:15:16 PM",
+      "updatedAt": "1/17/2024, 2:15:16 PM"
+    },
+    {
+      "name": "Neck Mobility Drill",
+      "mode": "Mobility",
+      "equipment": [
+        "none"
+      ],
+      "exercises": [
+        "Neck Tilts",
+        "Neck Turns",
+        "Neck Rolls"
+      ],
+      "trainerTips": [
+        "Perform gentle and controlled movements",
+        "Avoid any sudden or jerky motions"
+      ],
+      "bodypart": "Neck",
+      "imgUrl": "https://i.pinimg.com/564x/dc/bc/83/dcbc838ff5fbd0712d3425ca5f499224.jpg",
+      "id": "089a9bff-23a4-4e11-9320-582db0aea797",
+      "createdAt": "1/17/2024, 2:23:13 PM",
+      "updatedAt": "1/17/2024, 2:23:13 PM"
+    },
+    {
+      "name": "Isometric Neck Holds",
+      "mode": "Isometric",
+      "equipment": [
+        "none"
+      ],
+      "exercises": [
+        "Forward Neck Hold",
+        "Side Neck Hold",
+        "Backward Neck Hold"
+      ],
+      "trainerTips": [
+        "Hold each position for 15-30 seconds",
+        "Maintain a relaxed breathing pattern"
+      ],
+      "bodypart": "Neck",
+      "imgUrl": "https://i.pinimg.com/564x/d1/27/7c/d1277c8b3e90e3336961dded24881f59.jpg",
+      "id": "6ff37d3b-fda6-4953-8161-d6078b370a8a",
+      "createdAt": "1/17/2024, 2:23:58 PM",
+      "updatedAt": "1/17/2024, 2:23:58 PM"
+    },
+    {
+      "name": "Neck Flexor Stretch",
+      "mode": "Stretch",
+      "equipment": [
+        "yoga mat"
+      ],
+      "exercises": [
+        "Seated Neck Flexor Stretch",
+        "Standing Neck Flexor Stretch"
+      ],
+      "trainerTips": [
+        "Gently tilt your head for a deeper stretch",
+        "Avoid straining; the stretch should be comfortable"
+      ],
+      "bodypart": "Neck",
+      "imgUrl": "https://i.pinimg.com/564x/98/c2/c7/98c2c70a2b35837da1a05abaa1cbac73.jpg",
+      "id": "ecc9fe22-ef69-4170-a676-391c7d2ac190",
+      "createdAt": "1/17/2024, 2:24:30 PM",
+      "updatedAt": "1/17/2024, 2:24:30 PM"
+    },
+    {
+      "name": "Shoulder Press",
+      "mode": "Strength",
+      "equipment": [
+        "dumbbells",
+        "bench"
+      ],
+      "exercises": [
+        "Dumbbell Shoulder Press",
+        "Seated Shoulder Press",
+        "Arnold Press"
+      ],
+      "trainerTips": [
+        "Maintain proper form with a straight back",
+        "Use a weight that challenges your muscles"
+      ],
+      "bodypart": "Shoulder",
+      "imgUrl": "https://i.pinimg.com/564x/be/b2/02/beb2024b0ca4926b7b0895fbf386ea6f.jpg",
+      "id": "5eeef518-d38a-4b13-9f64-2f81f59965c5",
+      "createdAt": "1/17/2024, 2:26:43 PM",
+      "updatedAt": "1/17/2024, 2:26:43 PM"
+    },
+    {
+      "name": "Lateral Raises Circuit",
+      "mode": "Circuit",
+      "equipment": [
+        "dumbbells"
+      ],
+      "exercises": [
+        "Front Lateral Raises",
+        "Side Lateral Raises",
+        "Rear Lateral Raises"
+      ],
+      "trainerTips": [
+        "Perform each exercise in a controlled manner",
+        "Focus on the targeted shoulder muscles"
+      ],
+      "bodypart": "Shoulder",
+      "imgUrl": "https://i.pinimg.com/736x/14/bc/50/14bc505f438daae6432e0d3059a26de5.jpg",
+      "id": "7b8cf98d-da14-4050-b7a6-352577640e51",
+      "createdAt": "1/17/2024, 2:27:24 PM",
+      "updatedAt": "1/17/2024, 2:27:24 PM"
+    },
+    {
+      "name": "Shoulder Mobility Flow",
+      "mode": "Mobility",
+      "equipment": [
+        "resistance band"
+      ],
+      "exercises": [
+        "Band Pull-Aparts",
+        "Shoulder Circles",
+        "Dynamic Arm Swings"
+      ],
+      "trainerTips": [
+        "Use a light resistance band for warm-up",
+        "Move through each motion with control"
+      ],
+      "bodypart": "Shoulder",
+      "imgUrl": "https://i.pinimg.com/564x/df/cf/f6/dfcff62e5f94086cbb1f3b414a9b6e90.jpg",
+      "id": "62272305-b7d5-403f-ba7c-fb7929c59edb",
+      "createdAt": "1/17/2024, 2:28:33 PM",
+      "updatedAt": "1/17/2024, 2:28:33 PM"
+    },
+    {
+      "name": "Neck Flexion Stretch",
+      "mode": "Flexibility",
+      "equipment": [
+        "none"
+      ],
+      "exercises": [
+        "Neck Flexion Stretch"
+      ],
+      "trainerTips": [
+        "Sit or stand with a straight posture",
+        "Gently lower your chin towards your chest"
+      ],
+      "bodypart": "Neck",
+      "imgUrl": "https://i.pinimg.com/564x/e1/2b/8e/e12b8e41830df31c4f037d13499bd5f4.jpg",
+      "id": "2b7e03a8-42a6-4eb2-8663-59f66b7e649c",
+      "createdAt": "1/17/2024, 2:29:52 PM",
+      "updatedAt": "1/17/2024, 2:29:52 PM"
+    },
+    {
+      "name": "Neck Rotation Exercises",
+      "mode": "Mobility",
+      "equipment": [
+        "none"
+      ],
+      "exercises": [
+        "Neck Rotations",
+        "Shoulder-to-Neck Stretch"
+      ],
+      "trainerTips": [
+        "Move your neck through a comfortable range of motion",
+        "Avoid sudden, jerky movements"
+      ],
+      "bodypart": "Neck",
+      "imgUrl": "https://i.pinimg.com/564x/b4/85/cc/b485ccb5efa9c434d8f7baa45195b213.jpg",
+      "id": "9e943ed3-993e-4113-b59f-70e03dfd3613",
+      "createdAt": "1/17/2024, 2:30:37 PM",
+      "updatedAt": "1/17/2024, 2:30:37 PM"
+    },
+    {
+      "name": "Neck Isometrics",
+      "mode": "Strength",
+      "equipment": [
+        "none"
+      ],
+      "exercises": [
+        "Forward Neck Isometric",
+        "Lateral Neck Isometric"
+      ],
+      "trainerTips": [
+        "Apply gentle resistance with your hand",
+        "Hold each position for 10-15 seconds"
+      ],
+      "bodypart": "Neck",
+      "imgUrl": "https://i.pinimg.com/564x/98/2c/a2/982ca299a7c989d14780cdf5b0792bed.jpg",
+      "id": "a4d179b2-5bf5-4fd2-956c-ca5042a262ec",
+      "createdAt": "1/17/2024, 2:31:46 PM",
+      "updatedAt": "1/17/2024, 2:31:46 PM"
+    },
+    {
+      "name": "Bicep Curls",
+      "mode": "Strength",
+      "equipment": [
+        "dumbbells",
+        "barbell"
+      ],
+      "exercises": [
+        "Standing Bicep Curls",
+        "Seated Alternating Dumbbell Curls"
+      ],
+      "trainerTips": [
+        "Keep your back straight and core engaged",
+        "Control the movement to engage the biceps"
+      ],
+      "bodypart": "Upper Arm",
+      "imgUrl": "https://i.pinimg.com/564x/08/32/03/0832033f940cb7b77abab3ba33e0242d.jpg",
+      "id": "f686c984-0753-4b63-a65a-0740f089fe9a",
+      "createdAt": "1/17/2024, 2:34:32 PM",
+      "updatedAt": "1/17/2024, 2:34:32 PM"
+    },
+    {
+      "name": "Tricep Dips",
+      "mode": "Strength",
+      "equipment": [
+        "parallel bars",
+        "bench"
+      ],
+      "exercises": [
+        "Parallel Bar Tricep Dips",
+        "Bench Tricep Dips"
+      ],
+      "trainerTips": [
+        "Keep your shoulders down and chest up",
+        "Lower your body with control to engage the triceps"
+      ],
+      "bodypart": "Upper Arm",
+      "imgUrl": "https://i.pinimg.com/564x/92/ea/47/92ea47e8c7f580211e854b624cfb8d7a.jpg",
+      "id": "d8397e1d-758a-4f5d-b344-06b6bb3821b0",
+      "createdAt": "1/17/2024, 2:35:00 PM",
+      "updatedAt": "1/17/2024, 2:35:01 PM"
+    },
+    {
+      "name": "Hammer Curls",
+      "mode": "Strength",
+      "equipment": [
+        "dumbbells"
+      ],
+      "exercises": [
+        "Hammer Curls"
+      ],
+      "trainerTips": [
+        "Maintain a neutral grip throughout the movement",
+        "Squeeze your biceps at the top of the curl"
+      ],
+      "bodypart": "Upper Arm",
+      "imgUrl": "https://i.pinimg.com/564x/81/f0/85/81f0855f419d378af8689e8052d1600d.jpg",
+      "id": "ef5b10a8-5b09-4409-b191-4d66f0c488ad",
+      "createdAt": "1/17/2024, 2:36:01 PM",
+      "updatedAt": "1/17/2024, 2:36:01 PM"
+    },
+    {
+      "name": "Calf Raises",
+      "mode": "Strength",
+      "equipment": [
+        "calf raise machine",
+        "step"
+      ],
+      "exercises": [
+        "Standing Calf Raises",
+        "Seated Calf Raises"
+      ],
+      "trainerTips": [
+        "Lift your heels as high as possible",
+        "Control the descent to maximize the stretch"
+      ],
+      "bodypart": "Lower Leg",
+      "imgUrl": "https://i.pinimg.com/564x/b6/7b/65/b67b65ddaeae39b321933c803940d8af.jpg",
+      "id": "769af72d-1c2b-4d68-bfce-9976483e252b",
+      "createdAt": "1/17/2024, 2:38:31 PM",
+      "updatedAt": "1/17/2024, 2:38:31 PM"
+    },
+    {
+      "name": "Lunges",
+      "mode": "Strength",
+      "equipment": [
+        "dumbbells"
+      ],
+      "exercises": [
+        "Forward Lunges",
+        "Reverse Lunges"
+      ],
+      "trainerTips": [
+        "Step forward with control, keeping your knee over your ankle",
+        "Engage your core for stability"
+      ],
+      "bodypart": "Lower Leg",
+      "imgUrl": "https://i.pinimg.com/564x/3d/ea/ba/3deaba36502288ccd855021746dbec28.jpg",
+      "id": "f548506f-85c4-47d0-a480-29f38e165110",
+      "createdAt": "1/17/2024, 2:39:02 PM",
+      "updatedAt": "1/17/2024, 2:39:02 PM"
+    },
+    {
+      "name": "Calf Stretch",
+      "mode": "Flexibility",
+      "equipment": [
+        "wall"
+      ],
+      "exercises": [
+        "Wall Calf Stretch"
+      ],
+      "trainerTips": [
+        "Keep your back heel on the ground",
+        "Hold the stretch for at least 30 seconds"
+      ],
+      "bodypart": "Lower Leg",
+      "imgUrl": "https://i.pinimg.com/564x/31/92/62/3192629d618111c0a228b124d879d651.jpg",
+      "id": "06bc1109-3105-488b-80e4-7df2f04c6ba2",
+      "createdAt": "1/17/2024, 2:39:36 PM",
+      "updatedAt": "1/17/2024, 2:39:36 PM"
+    },
+    {
+      "name": "Running Intervals",
+      "mode": "Cardio",
+      "equipment": [
+        "running shoes"
+      ],
+      "exercises": [
+        "Sprint for 1 minute",
+        "Jog for 2 minutes",
+        "Repeat for 20 minutes"
+      ],
+      "trainerTips": [
+        "Maintain good posture while running",
+        "Adjust speed based on fitness level"
+      ],
+      "bodypart": "Full Body",
+      "imgUrl": "https://i.pinimg.com/564x/4e/9a/4d/4e9a4d0bdfb797d705d8154f40338dd5.jpg",
+      "id": "106ab85a-e8e6-494a-9374-c11ab82e8978",
+      "createdAt": "1/17/2024, 2:41:49 PM",
+      "updatedAt": "1/17/2024, 2:41:49 PM"
+    },
+    {
+      "name": "Jump Rope Circuit",
+      "mode": "Cardio",
+      "equipment": [
+        "jump rope"
+      ],
+      "exercises": [
+        "Jump rope for 1 minute",
+        "Bodyweight squats for 1 minute",
+        "Repeat for 15 minutes"
+      ],
+      "trainerTips": [
+        "Maintain a steady pace with the jump rope",
+        "Focus on proper squat form"
+      ],
+      "bodypart": "Full Body",
+      "imgUrl": "https://i.pinimg.com/564x/26/4e/21/264e21c1dff9271de6e21cd508237597.jpg",
+      "id": "fd2a60a7-d12a-4343-9882-981b0b55be9a",
+      "createdAt": "1/17/2024, 2:42:22 PM",
+      "updatedAt": "1/17/2024, 2:42:22 PM"
+    },
+    {
+      "name": "Cycling Adventure",
+      "mode": "Cardio",
+      "equipment": [
+        "bicycle",
+        "helmet"
+      ],
+      "exercises": [
+        "Cycle through scenic route for 30 minutes"
+      ],
+      "trainerTips": [
+        "Maintain a comfortable pace",
+        "Stay hydrated during the ride"
+      ],
+      "bodypart": "Legs",
+      "imgUrl": "https://i.pinimg.com/564x/61/af/cb/61afcb152ec95a0d358f0b4da4d8998b.jpg",
+      "id": "0392077f-2f1c-4691-bb6f-530f16d57eac",
+      "createdAt": "1/17/2024, 2:43:03 PM",
+      "updatedAt": "1/17/2024, 2:43:03 PM"
+    },
+    {
+      "name": "Oblique Crunches",
+      "mode": "Strength Training",
+      "equipment": [
+        "exercise mat"
+      ],
+      "exercises": [
+        "Lie on your back with knees bent",
+        "Cross right ankle over left knee",
+        "Crunch up, reaching towards the right ankle",
+        "Repeat on the other side",
+        "Do 3 sets of 15 reps each side"
+      ],
+      "trainerTips": [
+        "Engage your core throughout the movement",
+        "Keep your neck relaxed and chin slightly lifted"
+      ],
+      "bodypart": "Waist",
+      "imgUrl": "https://i.pinimg.com/564x/dd/01/12/dd0112d586c226b23c6f103a81371bdb.jpg",
+      "id": "d3584d7c-c5c7-4589-ab5b-47bfffefb71d",
+      "createdAt": "1/17/2024, 2:46:03 PM",
+      "updatedAt": "1/17/2024, 2:46:03 PM"
+    },
+    {
+      "name": "Russian Twists",
+      "mode": "Core Workout",
+      "equipment": [
+        "medicine ball"
+      ],
+      "exercises": [
+        "Sit on the floor with knees bent",
+        "Lean back at a 45-degree angle",
+        "Hold the medicine ball with both hands",
+        "Twist your torso, touching the ball to the ground on each side",
+        "Do 4 sets of 20 twists"
+      ],
+      "trainerTips": [
+        "Keep your back straight throughout the movement",
+        "Exhale as you twist to engage your core"
+      ],
+      "bodypart": "Waist",
+      "imgUrl": "https://i.pinimg.com/564x/34/7b/a0/347ba0f2d22b5b0a5e0051bbb8874c49.jpg",
+      "id": "eddaeeec-0e8b-4aa5-872b-67fed2918e39",
+      "createdAt": "1/17/2024, 2:46:36 PM",
+      "updatedAt": "1/17/2024, 2:46:37 PM"
+    },
+    {
+      "name": "Bicycle Crunches",
+      "mode": "Core Workout",
+      "equipment": [
+        "exercise mat"
+      ],
+      "exercises": [
+        "Lie on your back with hands behind your head",
+        "Lift legs off the ground and bend knees",
+        "Bring right elbow to left knee, then switch",
+        "Continue in a bicycle pedal motion",
+        "Do 3 sets of 20 reps"
+      ],
+      "trainerTips": [
+        "Avoid pulling on your neck, focus on twisting your torso",
+        "Engage your abs with each pedal motion"
+      ],
+      "bodypart": "Waist",
+      "imgUrl": "https://i.pinimg.com/564x/4b/fa/ea/4bfaea61f1031044879a89c94faee393.jpg",
+      "id": "34230e10-53c9-43b2-be34-f066fe34e977",
+      "createdAt": "1/17/2024, 2:47:11 PM",
+      "updatedAt": "1/17/2024, 2:47:11 PM"
+    }
+  ]
+}
